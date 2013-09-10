@@ -6,10 +6,10 @@ A list enables you to store multiple items in a single variable.
 An empty list is built like this: `a = []`
 ### Create a list with items
 `my_list = [1, 2, 3, 4, 5]`
-=> [1, 2, 3, 4, 5]
+
 ### Add an item to a list
 `my_list.push(6)`
-=> [1, 2, 3, 4, 5, 6]
+
 ## Loop
 A loop is a construct which enables you to do specific things several times consecutively.
 For example you want to print five times "Hello there!", you would write:
@@ -25,11 +25,6 @@ my_list = [1, 2, 3, 4, 5]
 my_list.each do |element|
 	puts element
 end
-=> 1
-=> 2
-=> 3
-=> 4
-=> 5
 ```
 `each` is a method called on the list which says we want the following code to be executed for every element in our list.
 The variable `element` points to the current element of the list.
