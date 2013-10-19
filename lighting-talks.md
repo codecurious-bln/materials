@@ -9,3 +9,5 @@
 * JavaScript Basics
 * CSS Basics
 * Unit testing (with an easy framwork, not rSpec)
+* How I got into programming
+* Daily business in programming
